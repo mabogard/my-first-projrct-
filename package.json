@@ -1,0 +1,19 @@
+{
+  "name": "my-first-projrct-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabogard/my-first-projrct-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabogard/my-first-projrct-/issues"
+  },
+  "homepage": "https://github.com/mabogard/my-first-projrct-#readme"
+}
